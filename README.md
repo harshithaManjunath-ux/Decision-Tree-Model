@@ -13,7 +13,7 @@ A fully worked decision analytic model evaluating the **cost-effectiveness of al
 ## 📋 Overview
 
 This model compares four management strategies for 55-year-old male patients referred to a Sheffield cardiology department with **severe typical angina**, using a decision tree framework with probabilistic inputs, discounted QALYs, and Net Monetary Benefit (NMB) decision rules.
-> 📥 **[Download the model](./Analytical_Decision_model.xlsx)** — open in Microsoft Excel to explore all 8 sheets including the decision tree, sensitivity analyses, and ICER calculations.
+> 📥 **[Download the model](https://github.com/harshithaManjunath-ux/Decision-Tree-Model/blob/main/Analytical%20Decision%20model.xlsx) ** — open in Microsoft Excel to explore all 8 sheets including the decision tree, sensitivity analyses, and ICER calculations.
 
 ### Strategies Evaluated
 
@@ -310,7 +310,7 @@ At higher surgical costs, ANG+CABG requires a higher success rate to remain opti
 ```
 angina-decision-model/
 │
-├── README.md                          # [This file](./Analytical_Decision_model.xlsx)
+├── README.md                          # [This file](https://github.com/harshithaManjunath-ux/Decision-Tree-Model/blob/main/Analytical%20Decision%20model.xlsx)
 ├── Analytical_Decision_model.xlsx     # Full Excel model (8 sheets)
 │
 ├── docs/
