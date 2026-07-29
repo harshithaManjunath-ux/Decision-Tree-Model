@@ -1,12 +1,16 @@
 # 🫀 Decision Analytic Model: Cost-Effectiveness of Angina Diagnosis & Treatment Strategies
 
 [![Model Type](https://img.shields.io/badge/Model-Decision%20Tree-blue)]()
+[![HTA Report](https://img.shields.io/badge/Companion-HTA%20Report-1a3c6e)](https://github.com/harshithaManjunath-ux/severe-angina-hta)
 [![Language](https://img.shields.io/badge/Built%20in-Microsoft%20Excel-217346?logo=microsoft-excel)]()
 [![Domain](https://img.shields.io/badge/Domain-Health%20Economics-red)]()
 [![Perspective](https://img.shields.io/badge/Perspective-Cardiology%20Department-orange)]()
 [![Sensitivity](https://img.shields.io/badge/Sensitivity-1--Way%20%26%202--Way-purple)]()
 
 A fully worked decision analytic model evaluating the **cost-effectiveness of alternative diagnostic and treatment strategies** for patients referred with severe typical angina chest pain. Built in Microsoft Excel, the model includes a complete decision tree, ICER analysis, and both 1-way and 2-way deterministic sensitivity analyses.
+> 📄 **Companion report:** The full Health Technology Assessment write-up of this model —
+   > with results, ICER frontier, and sensitivity analysis — lives in
+   > **[severe-angina-hta](https://github.com/harshithaManjunath-ux/severe-angina-hta)**.
 
 ---
 
