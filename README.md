@@ -1,7 +1,7 @@
 # 🫀 Decision Analytic Model: Cost-Effectiveness of Angina Diagnosis & Treatment Strategies
 
 [![Model Type](https://img.shields.io/badge/Model-Decision%20Tree-blue)]()
-[![HTA Report](https://img.shields.io/badge/Companion-HTA%20Report-1a3c6e)]([https://github.com/harshithaManjunath-ux/severe-angina-hta](https://github.com/harshithaManjunath-ux/Decision-Tree-Model---HTA-Report))
+[![HTA Report](https://img.shields.io/badge/Companion-HTA%20Report-1a3c6e)]((https://github.com/harshithaManjunath-ux/Decision-Tree-Model---HTA-Report))
 [![Language](https://img.shields.io/badge/Built%20in-Microsoft%20Excel-217346?logo=microsoft-excel)]()
 [![Domain](https://img.shields.io/badge/Domain-Health%20Economics-red)]()
 [![Perspective](https://img.shields.io/badge/Perspective-Cardiology%20Department-orange)]()
